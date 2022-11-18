@@ -1,0 +1,212 @@
+HTML, CSS, Java Script
+------------------------
+
+Application/Software/Product Types
+----------------------------------
+1) Desktop/Stand alone
+2) Web Application
+3) Mobile Application
+4) Hybrid Application
+5) Single Page Application
+6) Progressive Web Applications
+
+What is Enterprise?
+
+Any business orgnization -> do business ->make a money
+->by providing services to their customers
+
+
+
+School  ->teaching,exam,result,admission
+College ->teaching,exam,result,admission
+Bank    ->withdraw,depsoit,fundtransfer,laon
+Hospital ->appointment
+Hotels   -> book,cancel
+Transport ->book,cancel
+LIC       ->Open new policy,pay the premium,download the premium receipt
+
+
+
+   
+
+
+
+
+Why we develop the applications?
+--------------------------------
+To provide the services to the csutomers
+
+Every enterprise application is divided into 4 layers
+
+Layer ->Logical separation of code
+Tier  -> Physical separation of code 
+
+
+1.Presentation Layer -> 
+   Code developed to provide the input screen and response    to the user
+
+2.Service Layer -> It's a programtical implementation of              business rules
+
+              if(source exisst & dest exists & amount <avaialable amount)
+ {
+  debit source account;
+    credit destination account.
+}
+
+
+3.Data Access Layer :
+      Code to access the data from database
+
+4.Data Layer
+
+       array
+       txt,excel,xml
+       RDBMS -MySQL,Oracle
+       NOSQL -MongoDB
+       another business application 
+
+HTML -> Hyper Text Markup Language
+
+Linear -> finite starting and linear progressing towars the end
+             tape recorder,casset  
+             
+Hyper  -> you can slect item in fraction of second
+          
+             
+MArkup Language 
+
+Tag -> Text enclosed within angular bracket is Tag
+
+Element  <h1>   Opening Tag
+         </h1>  Closing Tage
+ 
+ 
+<br/> <hr/> 
+<br></br>   
+
+Html
+   head
+      body
+                h1,h2,h3,h4,h5,h6
+                font
+                b,i,u   
+                ol -li
+                ul -li
+                dl -dt,dd
+                pre
+
+
+
+
+
+
+Visual Studio Code
+------------------
+https://code.visualstudio.com/download#
+
+Google Chrome
+--------------
+
+
+Microsoft Windows [Version 10.0.19044.2251]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\frontend\day1>code .
+
+C:\frontend\day1>
+-----------------------------------------------------------------------
+
+
+Hi all,
+
+Good Evening
+
+will start at 7:00 pm sharp.
+
+-------------------------------------
+Git hub link to download the material
+
+https://github.com/vishalfed/nov-2022-fed
+
+Day2
+----
+
+fieldset
+legend
+table
+form
+input
+p
+div
+a
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
