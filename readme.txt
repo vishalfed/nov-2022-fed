@@ -185,6 +185,53 @@ Drag and drop − Drag and drop the items from one location to another location 
 
 
 
+Day 6  -JavaScript
+------------------------------------
+
+HTML + JavaScript = DHTML
+
+
+Serverside JavaScript =Node.js
+
+
+
+Scripting Language  -> Loosely types
+
+                    Object,Class,Encpsulation 
+                    doesn't provide Inheritance & Polymorphism 
+
+Programming Lanagauage -> Strong Types
+                    
+
+JavaScript => Object Based
+
+
+
+1) Browser Objects
+--------------------
+       window,document,history,naviagtor
+
+window  -alert,confirm,prompt,open 
+
+document -writeln, bgColor,fgColor,title
+
+
+
+
+2) Language Objects
+-------------------
+       String
+       Math
+       Date
+       Boolean
+       Number
+       Array
+       Object   
+
+
+
+
+
 
 
 
