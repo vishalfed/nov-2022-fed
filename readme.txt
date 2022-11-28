@@ -233,6 +233,59 @@ document -writeln, bgColor,fgColor,title
 
 
 
+Day 8
+----- 
+Java Script DOM API 
+
+-------------------------------------------------------
+Day 13
+--------------------------------------------------------
+
+AJAX -> Asynchronus JavaScript with XMLHttpRequest
+
+synchronus -> A-B should be online
+              Phone calling
+asynchronus -> A-B need not be online
+                SMS
+                Whatsapp
+                Email                  
+
+
+xmlhttprequest
+                readyState 
+                           0 -> connection with server not established
+                           1 -> connection is established with server
+                           2 -> request received on the server 
+                           3 -> request is under process
+                           4 -> resuset processed and response is ready
+                
+                status      : 200,500,404,405,406
+                statusText  :  OK,INTERNAL SERVER SERROR,NOT FOUND,METHOD NOT                              ALLOWED,MEDIA NOT ALLOWED         
+   
+                responseText 
+                responseXML   
+
+
+              open()  -> establsih the connection
+              send()  -> send the request to server 
+                             
+    
+
+
+-------------------
+jQuery.get()
+jQuery.post()
+jQuery.load()
+jQuery.request()
+------------------
+
+fetch()
+
+async,await
+
+
+
+
 
 
 
